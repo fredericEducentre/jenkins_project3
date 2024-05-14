@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.magic-ball {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  background-color: #333;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+}
+
